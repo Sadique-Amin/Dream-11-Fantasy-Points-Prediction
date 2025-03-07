@@ -1,0 +1,8 @@
+# Ignore Python virtual environments
+dream_11_env/
+env/
+.env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
