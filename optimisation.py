@@ -1,6 +1,8 @@
 import pulp
 import pandas as pd
 
+print("Hello World")
+
 def select_dream_team(players_df):    
     # Add 10 points to Fielders
     fielding_players = {
@@ -15,7 +17,6 @@ def select_dream_team(players_df):
         ("Mitchell Santner", "NZ"),
         ("Rachin Ravindra", "NZ"),
         ("Glenn Phillips", "NZ"),
-        
     }
 
     # Define weak countries as a list
@@ -69,14 +70,14 @@ def select_dream_team(players_df):
         if team not in restricted_countries:
             prob += pulp.lpSum([x[i] for i in range(num_players) if players[i]["Country"] == team]) >= 5, f"Team_{team}_constraint"
     
-    present_restricted = [country for country in restricted_countries if any(player["Country"] == country for player in players)]
+    # present_restricted = [country for country in restricted_countries if any(player["Country"] == country for player in players)]
     
-    if len(present_restricted) == 2:
-        for country in restricted_countries:
-            prob += pulp.lpSum([x[i] for i in range(num_players) if players[i]["Country"] == country]) >= 5, f"{country}_Min_Limit"
-    elif len(present_restricted) == 1:
-        restricted_country = present_restricted[0]
-        prob += pulp.lpSum([x[i] for i in range(num_players) if players[i]["Country"] == restricted_country]) <= 4, f"Restricted_{restricted_country}_Max_4"
+    # if len(present_restricted) == 2:
+    #     for country in restricted_countries:
+    #         prob += pulp.lpSum([x[i] for i in range(num_players) if players[i]["Country"] == country]) >= 5, f"{country}_Min_Limit"
+    # elif len(present_restricted) == 1:
+    #     restricted_country = present_restricted[0]
+    #     prob += pulp.lpSum([x[i] for i in range(num_players) if players[i]["Country"] == restricted_country]) <= 4, f"Restricted_{restricted_country}_Max_4"
 
 
     
