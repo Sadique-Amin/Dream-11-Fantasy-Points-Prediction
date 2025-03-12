@@ -1,0 +1,221 @@
+Name,Role,ID,Team,Country,Batting Hand,Bowling Hand,Bowling Style,DOB
+Rohit Sharma,BAT,34102,MI,India,RHB,,,30/04/1987
+Suryakumar Yadav,BAT,446507,MI,India,RHB,RHB,Off Break,14/09/1990
+Tilak Varma,BAT,1170265,MI,India,LHB,RHB,Off Break,8/11/2002
+Will Jacks,BAT,897549,MI,England,RHB,RHB,Off Break,21/11/1998
+Bevon Jacobs,BAT,1410577,MI,New Zealand,RHB,RHB,Medium,6/6/2002
+Vignesh Puthur,WK,1460388,MI,India,RHB,LHB,Slow Orthodox,2/3/2001
+Ryan Rickelton,WK,605661,MI,South Africa,LHB(WK),,,11/7/1996
+Robin Minz,WK,1350762,MI,India,LHB,LHB,Slow Orthodox,13/9/2002
+Shrijith Krishnan,WK,778241,MI,India,LHB,RHB,Off Break,12/8/1996
+Hardik Pandya,ALL,625371,MI,India,RHB,RHB,Medium fast,11/10/1993
+Naman Dhir,ALL,1287032,MI,India,RHB,RHB,Off Break,31/12/1999
+Raj Angad Bawa,ALL,1292502,MI,India,LHB,RHB,Medium fast,12/11/2002
+Karn Sharma,BOWL,30288,MI,India,LHB,RHB,Leg Break Googly,23/10/1987
+Mitchell Santner,ALL,502714,MI,New Zealand,LHB,LHB,Slow Orthodox,5/2/1992
+Jasprit Bumrah,BOWL,625383,MI,India,RHB,RHB,Fast,6/12/1993
+Trent Boult,BOWL,277912,MI,New Zealand,RHB,LHB,Medium fast,22/7/1989
+Deepak Chahar,BOWL,447261,MI,India,RHB,RHB,Medium,7/8/1992
+Mujeeb Ur Rahman,BOWL,974109,MI,Afghanistan,RHB,RHB,Off Break,28/3/2001
+Ashwani Kumar,BOWL,1209126,MI,India,LHB,LHB,Medium,29/8/2001
+Reece Topley,BOWL,461632,MI,England,RHB,LHB,Medium fast,21/2/1994
+Satyanarayana Raju,BOWL,1392201,MI,India,RHB,RHB,Medium fast,10/7/1999
+Lizaad Williams,BOWL,379887,MI,South Africa,LHB,RHB,Medium fast,1/10/1993
+Arjun Tendulkar,BOWL,1148776,MI,India,LHB,LHB,Medium fast,24/9/1999
+Angkrish Raghuvanshi,BAT,1292495,KKR,India,RHB,LHB,Slow Orthodox,5/6/2004
+Rinku Singh,BAT,723105,KKR,India,RHB,RHB,Off Break,12/10/1997
+Ramandeep Singh,BAT,1079470,KKR,India,RHB,RHB,Medium,13/5/1997
+Rovman Powell,BAT,820351,KKR,West Indies,RHB,RHB,Medium fast,23/7/1993
+Manish Pandey,BAT,290630,KKR,India,RHB,RHB,Medium,10/9/1989
+Luvnith Sisodia,BAT,1155253,KKR,India,LHB,LHB,Medium,15/1/2000
+Ajinkya Rahane,BAT,277916,KKR,India,RHB,RHB,Medium,6/6/1988
+Anukul Roy,BAT,1079839,KKR,India,LHB,LHB,Slow Orthodox,30/11/1998
+Quinton de Kock,WK,379143,KKR,South Africa,LHB,,,17/12/1992
+Rahmanullah Gurbaz,WK,974087,KKR,Afghanistan,RHB,RHB ,Medium,28/11/2001
+Moeen Ali,ALL,8917,KKR,England,LHB,RHB,Off Break,18/6/1987
+Andre Russell,ALL,276298,KKR,West Indies,RHB,RHB,Fast,29/4/1988
+Sunil Narine,ALL,230558,KKR,West Indies,LHB,RHB,Off Break,26/5/1988
+Venkatesh Iyer,ALL,851403,KKR,India,LHB,RHB ,Medium,25/12/1994
+Varun Chakravarthy,BOWL,1108375,KKR,India,RHB,RHB,Leg Break Googly,29/8/1991
+Mayank Markande,BOWL,1081442,KKR,India,RHB,RHB ,Leg Break ,11/11/1997
+Harshit Rana,BOWL,1312645,KKR,India,RHB,RHB,Fast,22/12/2001
+Anrich Nortje,BOWL,481979,KKR,South Africa,RHB,RHB,Fast,16/11/1993
+Vaibhav Arora,BOWL,1209292,KKR,India,RHB,RHB,Fast Medium,14/12/1997
+Spencer Johnson,BOWL,1123718,KKR,Australian,LHB,LHB,Fast,16/12/1995
+Umran Malik,BOWL,1246528,KKR,India,RHB,RHB,Fast,22/11/1999
+Ruturaj Gaikwad,BAT,1060380,CSK,India,RHB,RHB,Off Break,31/1/1997
+Devon Conway,WK,379140,CSK,New Zealand,LHB,RHB,Medium,8/7/1991
+Rahul Tripathi,BAT,446763,CSK,India,RHB,RHB ,Medium,2/3/1991
+Shivam Dube,BAT,714451,CSK,India,LHB,RHB,Medium,26/6/1993
+Shaik Rasheed,BAT,1292497,CSK,India,RHB,RHB,Leg Break,24/9/2004
+Deepak Hooda,BAT,497121,CSK,India,RHB,RHB,Off Break,19/4/1995
+Shreyas Gopal,BAT,344580,CSK,India,RHB,RHB,Leg Break,4/9/1993
+Vansh Bedi,BAT,1413379,CSK,India,RHB (WK),,,23/12/2002
+Andre Siddharth,BAT,1440190,CSK,India,RHB,,,28/8/2006
+MS Dhoni,WK,28081,CSK,India,RHB,RHB,Medium,7/7/1981
+Rachin Ravindra,ALL,959767,CSK,New Zealand,LHB,LHB,Slow Orthodox,18/11/1999
+Sam Curran,ALL,662973,CSK,England,LHB,LHB,Medium fast,3/6/1998
+Vijay Shankar,ALL,477021,CSK,India,RHB,RHB,Medium,26/1/1991
+Ravindra Jadeja,ALL,234675,CSK,India,LHB,LHB,Slow Orthodox,6/12/1988
+Ravichandran Ashwin,ALL,26421,CSK,India,RHB,RHB,Off Break,17/9/1986
+Anshul Kamboj,ALL,1175428,CSK,India,RHB,RHB,Medium,6/12/2000
+Jamie Overton,ALL,510530,CSK,English,RHB,RHB,Fast,10/4/1994
+Ramakrishna Ghosh,ALL,1339053,CSK,India,RHB,RHB,Medium fast,28/7/1997
+Noor Ahmad,BOWL,1182529,CSK,Afghanistan,RHB,LHB,Wrist spin,3/1/2005
+Matheesha Pathirana,BOWL,1194795,CSK,Sri Lanka,RHB,RHB,Fast,18/12/2002
+Khaleel Ahmed,BOWL,942645,CSK,India,RHB,LHB,Fast Medium,5/12/1997
+Mukesh Choudhary,BOWL,1125688,CSK,India,LHB,LHB,Medium,6/7/1996
+Nathan Ellis,BOWL,826915,CSK,Australia,RHB,RHB,Fast Medium,22/9/1994
+Kamlesh Nagarkoti,BOWL,1070188,CSK,India,RHB,RHB,Fast,28/12/1999
+Gurjapneet Singh,BOWL,1269869,CSK,India,RHB,LHB,Medium fast,8/11/1998
+Yashasvi Jaiswal,BAT,1151278,RR,Indian,LHB,RHB,Leg Break,28/12/2001
+Riyan Parag,BAT,1079434,RR,Indian,RHB,RHB,Off Break/ Leg Break,10/11/2001
+Shimron Hetmyer,BAT,670025,RR,West Indian,LHB,,,26/12/1996
+Nitish Rana,BAT,604527,RR,Indian,LHB,RHB,Medium/Leg Break/Off Break,27/12/1993
+Shubham Dubey,BAT,1252585,RR,Indian,LHB,RHB,Off Break,27/8/1994
+Vaibhav Suryavanshi,BAT,1408688,RR,Indian,LHB,LHB,Slow Orthodox,27/3/2011
+Kunal Rathore,BAT,1339031,RR,Indian,LHB,,,9/10/2002
+Sanju Samson,WK,425943,RR,Indian,RHB,,,11/11/1994
+Dhruv Jurel,WK,1175488,RR,Indian,RHB,,,21/1/2001
+Wanindu Hasaranga,ALL,784379,RR,Sri Lanka,RHB,RHB,Leg Break,29/7/1997
+Sandeep Sharma,BOWL,438362,RR,Indian,RHB,RHB,Medium Fast,18/5/1993
+Jofra Archer,BOWL,669855,RR,England,RHB,RHB,Fast,1/4/1995
+Akash Madhwal,BOWL,1206039,RR,India,RHB,RHB,Medium Fast,25/11/1993
+Tushar Deshpande,BOWL,822553,RR,India,LHB,RHB,Medium,15/5/1995
+Yudhvir Singh,BOWL,1206052,RR,India,RHB,RHB,Medium Fast,13/9/1997
+Fazalhaq Farooqi,BOWL,974175,RR,Afghanistan,RHB,LHB,Fast Medium,22/9/2000
+Kwena Maphaka,BOWL,1294342,RR,South Africa,LHB,LHB,Fast,8/4/2006
+Ashok Sharma,BOWL,1299879,RR,India,RHB,RHB,Medium,17/6/2002
+Maheesh Theekshana,BOWL,1138316,RR,Sri Lanka,RHB,RHB,Off Break,1/8/2000
+Kumar Kartikeya,BOWL,1159843,RR,India,RHB,LHB,Wrist Spin,26/12/1997
+Virat Kohli,BAT,253802,RCB,India,RHB,RHB,Medium,5/11/1988
+Rajat Patidar,BAT,823703,RCB,India,RHB,RHB,Off Break,1/6/1993
+Devdutt Padikkal,BAT,1119026,RCB,India,LHB,RHB,Off Break,7/7/2000
+Swastik Chikara,BAT,1403198,RCB,India,RHB,RHB,Off Break,3/4/2005
+Phil Salt,WK,669365,RCB,England,RHB,RHB,Off Break,28/8/1996
+Jitesh Sharma,WK,721867,RCB,India,RHB,,,22/10/1993
+Liam Livingstone,ALL,403902,RCB,England,RHB,RHB,Leg Break,4/8/1993
+Krunal Pandya,ALL,471342,RCB,India,LHB,LHB,Slow Orthodox,24/3/1991
+Romario Shepherd,ALL,677077,RCB,West Indies,RHB,RHB,Fast Medium,26/11/1994
+Tim David,ALL,892749,RCB,Australia,RHB,RHB,Off Break,16/3/1996
+Manoj Bhandage,ALL,1057399,RCB,India,LHB,RHB,Medium Fast,5/10/1998
+Jacob Bethell,ALL,1194959,RCB,England,LHB,LHB,Slow Orthodox,23/10/2003
+Mohit Rathee,ALL,1349361,RCB,India,RHB,RHB,Leg Break,13/1/1999
+Suyash Sharma,BOWL,1350792,RCB,India,RHB,RHB,Leg Break Googly,15/5/2003
+Swapnil Singh,BOWL,232292,RCB,India,RHB,LHB,Slow Orthodox,22/1/1991
+Yash Dayal,BOWL,1159720,RCB,India,RHB,LHB,Medium Fast,13/12/1997
+Rasikh Dar,BOWL,1161489,RCB,India,RHB,RHB,Medium,5/4/2000
+Josh Hazlewood,BOWL,288284,RCB,Australia,LHB,RHB,Fast Medium,8/1/1991
+Bhuvneshwar Kumar,BOWL,326016,RCB,India,RHB,RHB,Medium,5/2/1990
+Nuwan Thushara,BOWL,955235,RCB,Sri Lanka,RHB,RHB,Medium Fast,6/8/1994
+Abhinandan Singh,BOWL,1449085,RCB,India,RHB,RHB,Medium Fast,30/3/1997
+Lungi Ngidi,BOWL,542023,RCB,South Africa,RHB,RHB,Fast Medium,29/3/1996
+Jake Fraser-McGurk,BAT,1168049,DC,Australia,RHB,RHB,Leg Break Googly,11/4/2002
+Tristan Stubbs,BAT,595978,DC,South Africa,RHB,RHB,Off Break,14/8/2000
+Faf du Plessis,BAT,44828,DC,South Africa,RHB,RHB,Leg Break,13/7/1984
+Harry Brook,BAT,911707,DC,England,RHB,RHB,Medium,22/02/1999
+Karun Nair,BAT,398439,DC,India,RHB,RHB,Off Break,6/12/91
+Sameer Rizvi,BAT,1175489,DC,India,RHB,RHB,Off Break,6/12/2003
+Ashutosh Sharma,BAT,1131978,DC,India,RHB,,,15/9/1998
+Donovan Ferreira,BAT,698315,DC,South Africa,RHB,RHB,Off Break,21/7/1998
+KL Rahul,WK,422108,DC,India,RHB,,,18/4/1992
+Abishek Porel,WK,1277545,DC,India,LHB,,,17/10/2002
+Axar Patel,ALL,554691,DC,India,LHB,LHB,Slow Orthodox,20/1/1994
+Ajay Mandal,ALL,1059570,DC,India,LHB,LHB,Slow Orthodox,25/2/1996
+Vipraj Nigam,ALL,1449074,DC,India,RHB,RHB,Leg Break,28/7/2004
+Manvanth Kumar,ALL,1392186,DC,India,LHB,RHB,Medium Fast,11/1/2004
+Madhav Tiwari,ALL,1460385,DC,India,RHB,RHB,Medium Fast,28/9/2003
+Kuldeep Yadav,BOWL,559235,DC,India,LHB,LHB,Wrist Spin,14/12/1994
+Mitchell Starc,BOWL,311592,DC,Australia,LHB,LHB,Fast,30/1/1990
+T Natarajan,BOWL,802575,DC,India,LHB,LHB,Medium,4/4/1991
+Mohit Sharma,BOWL,537119,DC,India,RHB,RHB,Medium,18/9/1988
+Mukesh Kumar,BOWL,926851,DC,India,RHB,RHB,Medium,12/10/1993
+Darshan Nalkande,BOWL,1111917,DC,India,RHB,RHB,Fast Medium,4/10/1998
+Dushmantha Chameera,BOWL,552152,DC,Sri Lanka,RHB,RHB,Fast,11/1/1992
+Tripurana Vijay,BOWL,1292527,DC,India,RHB,RHB,Off Break,5/9/2001
+Jos Buttler,WK,308967,GT,England,RHB,,,8/9/1990
+Kumar Kushagra,WK,1207295,GT,India,RHB,,,23/10/2004
+Anuj Rawat,WK,1123073,GT,India,LHB,,,17/10/1999
+Shubman Gill,BAT,1070173,GT,India,RHB,RHB,Off Break,8/9/1999
+Sai Sudharsan,BAT,1151288,GT,India,LHB,RHB,Leg Break,15/10/2001
+Shahrukh Khan,BAT,719719,GT,India,RHB,RHB,Off Break,27/5/1995
+Sai Kishore,BAT,1048739,GT,India,LHB,LHB,Slow Orthodox,6/11/1996
+Glenn Phillips,BAT,823509,GT,New Zealand,RHB,RHB,Off Break,6/12/1996
+Mahipal Lomror,ALL,853265,GT,India,LHB,LHB,Slow Orthodox,16/11/1999
+Washington Sundar,ALL,719715,GT,India,LHB,RHB,Off Break,5/10/1999
+Nishant Sindhu,ALL,1292506,GT,India,LHB,LHB,Slow Orthodox,9/4/2004
+Rashid Khan,ALL,793463,GT,Afghanistan,RHB,RHB,Leg Break Googly,20/9/1998
+Rahul Tewatia,ALL,423838,GT,India,LHB,RHB,Leg Break,20/5/1993
+Karim Janat,ALL,793467,GT,Afghanistan,RHB,RHB,Medium,11/8/1998
+Kagiso Rabada,BOWL,550215,GT,South Africa,LHB,RHB,Fast,25/5/1995
+Mohammed Siraj,BOWL,940973,GT,India,RHB,RHB,Fast,13/3/1993
+Prasidh Krishna,BOWL,917159,GT,India,RHB,RHB,Fast Medium,19/2/1996
+Gerald Coetzee,BOWL,596010,GT,India,RHB,RHB,Fast,2/10/2000
+Arshad Khan,BOWL,1244751,GT,India,LHB,LHB,Medium,20/12/1997
+Ishant Sharma,BOWL,236779,GT,India,RHB,RHB,Fast Medium,2/9/1988
+Gurnoor Brar,BOWL,1287033,GT,India,LHB,RHB,Fast,25/5/2000
+Kulwant Khejroliya,BOWL,1083033,GT,India,LHB,LHB,Medium Fast,13/3/1992
+Manav Suthar,BOWL,1175426,GT,India,LHB,LHB,Slow Orthodox,3/8/2002
+Ayush Badoni,BAT,1151270,LSG,Indian,RHB,RHB,Off Break,3/12/1999
+David Miller,BAT,321777,LSG,South African,LHB,RHB,Off Break,10/6/1989
+Aiden Markram,BAT,600498,LSG,South African,RHB,RHB,Off Break,4/10/1994
+Himmat Singh,BAT,805235,LSG,Indian,RHB,RHB,Off Break,8/11/1996
+Nicholas Pooran,WK,604302,LSG,West Indian,LHB,RHB,Off Break,2/10/1995
+Rishabh Pant,WK,931581,LSG,Indian,LHB,,,4/10/1997
+Aryan Juyal,WK,1130300,LSG,Indian,RHB,,,11/11/2001
+Abdul Samad,ALL,1175485,LSG,India,RHB,RHB,Leg Break,28/10/2001
+Mitchell Marsh,ALL,272450,LSG,Australia,RHB,RHB,Medium,20/10/1991
+Arshin Kulkarni,ALL,1403153,LSG,India,RHB,RHB,Medium,15/2/2005
+Yuvraj Chaudhary,ALL,1175463,LSG,Indian,LHB,LHB,Slow Orthodox,6/10/2001
+Shahbaz Ahmed,ALL,1159711,LSG,Indian,LHB,LHB,Slow Orthodox,11/12/1994
+Ravi Bishnoi,BOWL,1175441,LSG,Indian,RHB,RHB,Leg Break Googly,5/9/2000
+Digvesh Singh,BOWL,1460529,LSG,Indian,RHB,RHB,Leg Break,15/12/1999
+M Siddharth,BOWL,1151286,LSG,Indian,RHB,LHB,Slow Orthodox,3/7/1998
+Mayank Yadav,BOWL,1292563,LSG,Indian,RHB,RHB,Fast,17/6/2002
+Mohsin Khan,BOWL,1132005,LSG,Indian,LHB,LHB,Medium Fast,15/7/1998
+Avesh Khan,BOWL,694211,LSG,Indian,RHB,RHB,Fast Medium,13/12/1996
+Akash Deep,BOWL,1176959,LSG,Indian,RHB,RHB,Fast Medium,15/12/1996
+Shamar Joseph,BOWL,1356971,LSG,West Indies,LHB,RHB,Fast,31/8/1999
+Prince Yadav,BOWL,1350768,LSG,Indian,RHB,RHB,Medium,2/1/1998
+Rajvardhan Hangargekar,BOWL,1175429,LSG,Indian,RHB,RHB,Fast Medium,10/11/2002
+Matthew Breetzke,BOWL,595267,LSG,South Africa,RHB,,,3/11/1998
+Prabhsimran Singh,WK,1161024,PBKS,Indian,RHB,,,10/8/2000
+Shreyas Iyer,BAT,642519,PBKS,Indian,RHB,RHB,Off Break/Leg Break/ Googly,6/12/1994
+Nehal Wadhera,BAT,1151273,PBKS,Indian,LHB,RHB,Leg Break,4/9/2000
+Azmatullah Omarzai,BAT,819429,PBKS,Afghanistan,RHB,RHB,Medium Fast,24/3/2000
+Pravin Dubey,BAT,777515,PBKS,Indian,RHB,RHB,Leg Break,1/7/1993
+Josh Inglis,WK,662235,PBKS,Australian,RHB,,,4/3/1995
+Vishnu Vinod,WK,732293,PBKS,Indian,RHB,,,2/12/1993
+Shashank Singh,BAT,377534,PBKS,Indian,RHB,RHB,Medium/Off Break,21/11/1991
+Aaron Hardie,ALL,1124283,PBKS,Australian,RHB,RHB,Medium Fast,7/1/1999
+Suryansh Shedge,ALL,1339698,PBKS,Indian,RHB,RHB,Medium Fast,29/1/2003
+Marcus Stoinis,ALL,325012,PBKS,Australia,RHB,RHB,Medium,16/8/1989
+Glenn Maxwell,ALL,325026,PBKS,Australia,RHB,RHB,Off Break,14/10/1988
+Marco Jansen,ALL,696401,PBKS,South Africa,RHB,LHB,Fast,1/5/2000
+Yuzvendra Chahal,BOWL,430246,PBKS,India,RHB,RHB,Leg Break,23/7/1990
+Harpreet Brar,BOWL,1168641,PBKS,India,LHB,LHB,Slow Orthodox,16/9/1995
+Arshdeep Singh,BOWL,1125976,PBKS,Indian,LHB,LHB,Medium Fast,5/2/1999
+Vyshak Vijaykumar,BOWL,777815,PBKS,Indian,RHB,RHB,Medium,31/1/97
+Yash Thakur,BOWL,1070196,PBKS,Indian,RHB,RHB,Fast Medium,28/12/1998
+Kuldeep Sen,BOWL,1163695,PBKS,Indian,RHB,RHB,Fast,22/10/1996
+Xavier Bartlett,BOWL,1050545,PBKS,Australian,RHB,RHB,Fast Medium,17/12/1998
+Abhishek Sharma,BAT,1070183,SRH,India,LHB,LHB,Slow Orthodox,4/9/2000
+Travis Head,BAT,530011,SRH,Australia,LHB,RHB,Off Break,29/12/1993
+Atharva Taide,BAT,1125958,SRH,India,LHB,LHB,Slow Orthodox,26/4/2000
+Abhinav Manohar,BAT,778963,SRH,India,RHB,RHB,Leg Break,16/09/1994
+Aniket Varma,BAT,1409976,SRH,India,RHB,RHB,Medium Fast,5/2/2002
+Sachin Baby,BAT,432783,SRH,India,LHB,RHB,Off Break,18/12/1988
+Heinrich Klaassen,WK,436757,SRH,South Africa,RHB,RHB,Off Break,30/7/1991
+Ishan Kishan,WK,720471,SRH,India,LHB,,,18/7/1998
+Nitish Kumar Reddy,ALL,1175496,SRH,India,RHB,RHB,Medium Fast,26/5/2003
+Harshal Patel,ALL,390481,SRH,India,RHB,RHB,Medium,23/11/1990
+Kamindu Mendis,ALL,784373,SRH,Sri Lanka,LHB,RHB/LHB,Off Break/Slow Othodox,30/9/1998
+Pat Cummins,BOWL,489889,SRH,Australia,RHB,RHB,Fast,8/5/1993
+Mohammed Shami,BOWL,481896,SRH,India,RHB,RHB,Fast,3/9/1990
+Simarjeet Singh,BOWL,1159722,SRH,India,RHB,RHB,Medium Fast,17/1/1998
+Jaydev Unadkat,BOWL,390484,SRH,India,RHB,LHB,Medium,18/10/1991
+Brydon Carse,BOWL,596417,SRH,England,RHB,RHB,Fast,31/7/1995
+Eshan Malinga,BOWL,1306214,SRH,Sri Lanka,LHB,RHB,Fast Medium,4/2/2001
+Rahul Chahar,BOWL,1064812,SRH,India,RHB,RHB,Leg Break Googly,4/8/1999
+Adam Zampa,BOWL,379504,SRH,Australia,RHB,RHB,Leg Break Googly,31/3/1992
+Zeeshan Ansari,BOWL,942371,SRH,India,RHB,RHB,Leg Break Googly,16/12/1999
