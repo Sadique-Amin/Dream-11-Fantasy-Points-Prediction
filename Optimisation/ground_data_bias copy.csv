@@ -1,0 +1,49 @@
+Ground_Name,Ground_ID,Bias
+Rohtak,269356,0.2
+Thumba,1053905,0.225
+Kanpur,58204,0.225
+Chennai,58008,0.3
+Nadaun,58585,0.3
+Greater Noida,942501,0.325
+DY Patil,343050,0.4
+Raipur,601879,0.4
+Ranchi,485865,0.4
+Thiruvananthapuram,1120086,0.4
+Nagpur,375326,0.4
+Jaipur,58162,0.4
+Lucknow,1070094,0.4
+Jadavpur Uni,57986,0.4
+Vizianagaram,709715,0.425
+Sultanpur,1285698,0.425
+Vadodara,58516,0.425
+Dehradun,1145946,0.5
+Surat,58461,0.5
+Kochi,58230,0.5
+Alur (2),950015,0.5
+Cuttack,58027,0.5
+Mangalagiri,1287205,0.5
+Bhubaneswar,806213,0.5
+Mulapadu,1152683,0.5
+Alur (3),722463,0.5
+Bhadravati,57930,0.5
+Shimoga,546331,0.5
+Alur,573809,0.5
+Chandigarh,57993,0.625
+Mohali,57991,0.625
+Pune,545380,0.7
+Visakhapatnam,58547,0.7
+Hyderabad,58142,0.7
+Kolkata,1169429,0.725
+Eden Gardens,57980,0.725
+Rajkot,377285,0.725
+Mullanpur,1290799,0.725
+Guwahati,680295,0.8
+Brabourne,58317,0.8
+Gwalior,1447330,0.825
+Delhi,58040,0.825
+Ahmedabad,57851,0.85
+Wankhede,58324,0.9
+Mumbai,379598,0.9
+Dharamsala,58056,0.925
+Indore,58150,1.0
+Bengaluru,57897,1.0

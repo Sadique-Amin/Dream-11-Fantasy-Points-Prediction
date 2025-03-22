@@ -1,0 +1,75 @@
+Match,Venue,Date,Team1,Team2
+Match 1,Kolkata,"March 22, 2025",KKR,RCB
+Match 2,Hyderabad,"March 23, 2025",SRH,RR
+Match 3,Chennai,"March 23, 2025",CSK,MI
+Match 4,Visakhapatnam,"Mon, 24 Mar '25",DC,LSG
+Match 5,Ahmedabad,"Tue, 25 Mar '25",GT,PBKS
+Match 6,Guwahati,"Wed, 26 Mar '25",RR,KKR
+Match 7,Hyderabad,"Thu, 27 Mar '25",SRH,LSG
+Match 8,Chennai,"Fri, 28 Mar '25",CSK,RCB
+Match 9,Ahmedabad,"Sat, 29 Mar '25",GT,MI
+Match 10,Visakhapatnam,"Sun, 30 Mar '25",DC,SRH
+Match 11,Guwahati,"Sun, 30 Mar '25",RR,CSK
+Match 12,Mumbai,"Mon, 31 Mar '25",MI,KKR
+Match 13,Lucknow,"Tue, 01 Apr '25",LSG,PBKS
+Match 14,Bengaluru,"Wed, 02 Apr '25",RCB,GT
+Match 15,Kolkata,"Thu, 03 Apr '25",KKR,SRH
+Match 16,Lucknow,"Fri, 04 Apr '25",LSG,MI
+Match 17,Chennai,"Sat, 05 Apr '25",CSK,DC
+Match 18,Mohali,"Sat, 05 Apr '25",PBKS,RR
+Match 19,Kolkata,"Sun, 06 Apr '25",KKR,LSG
+Match 20,Hyderabad,"Sun, 06 Apr '25",SRH,GT
+Match 21,Mumbai,"Mon, 07 Apr '25",MI,RCB
+Match 22,Mohali,"Tue, 08 Apr '25",PBKS,CSK
+Match 23,Ahmedabad,"Wed, 09 Apr '25",GT,RR
+Match 24,Bengaluru,"Thu, 10 Apr '25",RCB,DC
+Match 25,Chennai,"Fri, 11 Apr '25",CSK,KKR
+Match 26,Lucknow,"Sat, 12 Apr '25",LSG,GT
+Match 27,Hyderabad,"Sat, 12 Apr '25",SRH,PBKS
+Match 28,Jaipur,"Sun, 13 Apr '25",RR,RCB
+Match 29,Delhi,"Sun, 13 Apr '25",DC,MI
+Match 30,Lucknow,"Mon, 14 Apr '25",LSG,CSK
+Match 31,Mohali,"Tue, 15 Apr '25",PBKS,KKR
+Match 32,Delhi,"Wed, 16 Apr '25",DC,RR
+Match 33,Mumbai,"Thu, 17 Apr '25",MI,SRH
+Match 34,Bengaluru,"Fri, 18 Apr '25",RCB,PBKS
+Match 35,Ahmedabad,"Sat, 19 Apr '25",GT,DC
+Match 36,Jaipur,"Sat, 19 Apr '25",RR,LSG
+Match 37,Mohali,"Sun, 20 Apr '25",PBKS,RCB
+Match 38,Mumbai,"Sun, 20 Apr '25",MI,CSK
+Match 39,Kolkata,"Mon, 21 Apr '25",KKR,GT
+Match 40,Lucknow,"Tue, 22 Apr '25",LSG,DC
+Match 41,Hyderabad,"Wed, 23 Apr '25",SRH,MI
+Match 42,Bengaluru,"Thu, 24 Apr '25",RCB,RR
+Match 43,Chennai,"Fri, 25 Apr '25",CSK,SRH
+Match 44,Kolkata,"Sat, 26 Apr '25",KKR,PBKS
+Match 45,Mumbai,"Sun, 27 Apr '25",MI,LSG
+Match 46,Delhi,"Sun, 27 Apr '25",DC,RCB
+Match 47,Jaipur,"Mon, 28 Apr '25",RR,GT
+Match 48,Delhi,"Tue, 29 Apr '25",DC,KKR
+Match 49,Chennai,"Wed, 30 Apr '25",CSK,PBKS
+Match 50,Jaipur,"Thu, 01 May '25",RR,MI
+Match 51,Ahmedabad,"Fri, 02 May '25",GT,SRH
+Match 52,Bengaluru,"Sat, 03 May '25",RCB,CSK
+Match 53,Kolkata,"Sun, 04 May '25",KKR,RR
+Match 54,Dharamsala,"Sun, 04 May '25",PBKS,LSG
+Match 55,Hyderabad,"Mon, 05 May '25",SRH,DC
+Match 56,Mumbai,"Tue, 06 May '25",MI,GT
+Match 57,Kolkata,"Wed, 07 May '25",KKR,CSK
+Match 58,Dharamsala,"Thu, 08 May '25",PBKS,DC
+Match 59,Lucknow,"Fri, 09 May '25",LSG,RCB
+Match 60,Hyderabad,"Sat, 10 May '25",SRH,KKR
+Match 61,Dharamsala,"Sun, 11 May '25",PBKS,MI
+Match 62,Delhi,"Sun, 11 May '25",DC,GT
+Match 63,Chennai,"Mon, 12 May '25",CSK,RR
+Match 64,Bengaluru,"Tue, 13 May '25",RCB,SRH
+Match 65,Ahmedabad,"Wed, 14 May '25",GT,LSG
+Match 66,Mumbai,"Thu, 15 May '25",MI,DC
+Match 67,Jaipur,"Fri, 16 May '25",RR,PBKS
+Match 68,Bengaluru,"Sat, 17 May '25",RCB,KKR
+Match 69,Ahmedabad,"Sun, 18 May '25",GT,CSK
+Match 70,Lucknow,"Sun, 18 May '25",LSG,SRH
+Qualifier 1,Hyderabad,"Tue, 20 May '25",TBC,TBC
+Eliminator,Hyderabad,"Wed, 21 May '25",TBC,TBC
+Qualifier 2,Kolkata,"Fri, 23 May '25",TBC,TBC
+Final,Kolkata,"Sun, 25 May '25",TBC,TBC
