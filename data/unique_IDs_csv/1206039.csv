@@ -1,0 +1,6 @@
+ID,GameFormat,SR,BattingInnings,IsOut,Opposition,Ground,MatchDate,TossResult,MatchTime,isTossWon,Fantasy,isHomeGround,GroundWL,GroundRPO,GroundAvg,TossWL,TossRPO,TossAvg,inningsWL,inningsRPO,inningsAverage,Average,Innings,Centuries,Fifties,Zeros,Consistency,Form,Venue,Opps,MaxTemp,MinTemp,RainProb,MaxWind,WeatherCode,Tournament,BattingOrder
+1206039,6,0.0,2,0,Gujarat,Vadodara,2021-01-12,field,day,1,9,0,1.142,7.47,22.42,1.75,7.69,22.55,0.764,7.5,22.28,0.0,0,0,0,0,0.9353,0.9353,1.3382,1.0927,28.9,18.4,0.0,11.7,1.0,Other,4
+1206039,6,71.42857143,2,1,Delhi,Rohtak,2021-11-04,field,day,1,-4,0,1.777,6.17,18.88,1.75,6.2,16.45,0.666,6.17,19.52,5.0,1,0,0,0,1.2373,1.2373,1.3382,1.0927,27.5,14.6,0.0,9.6,2.0,Other,4
+1206039,6,38.46153846,2,0,Hyderabad,Sultanpur,2021-11-05,bat,day,0,5,0,1.5,7.58,27.62,0.25,6.67,28.8,1.0,7.54,23.48,5.0,2,0,0,1,0.9353,0.9353,1.3382,1.0927,29.8,16.8,0.0,13.2,3.0,Other,4
+1206039,6,42.85714286,1,1,Rajasthan,Mohali,2023-10-25,field,daynight,0,-4,0,1.23,8.32,27.96,0.568,8.29,28.63,0.61,8.3,25.88,6.0,3,0,0,1,0.9353,0.9353,1.3382,1.0927,29.3,16.2,0.0,14.5,0.0,Other,4
+1206039,6,40.0,1,0,RR,Wankhede,2024-04-01,field,night,0,8,1,1.25,8.32,25.62,0.724,8.41,27.14,0.732,8.29,26.23,3.0,4,0,0,2,0.9353,0.9025,1.3382,1.0927,28.2,26.8,0.0,26.9,3.0,IPL,4
