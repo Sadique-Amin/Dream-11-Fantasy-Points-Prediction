@@ -95,3 +95,6 @@ This project reflects a blend of **domain knowledge**, **model experimentation**
 <img width="1356" height="760" alt="image" src="https://github.com/user-attachments/assets/ed5d3551-68cb-4697-a914-5ee1cb41af1b" />
 
 We participated in the FIFS Gameathon 2.0 with this model with the team name The Drumsticks. The organisers had access to our models to check if we were honest in the process. The leaderboard presence suggests the validity. We only participated till the play-offs and hence some difference in total score. Please check this website [Link Text](https://fifsgameathon.in/gameathon-2)
+---
+## Model and related volume
+You can find the final docker image and the volumes here: [Link Text](https://drive.google.com/file/d/1JlFov2GGIfmBlUOblMlddLOMT2E135HY/view?usp=sharing)
