@@ -1,0 +1,213 @@
+Ground,ID,Latitude,Longitude,Home Team (Franchise Cricket),Ground Country (For International)
+Durban,59089,-29.8587,31.0292,Super Giants,South Africa
+Johannesburg,59120,-26.2041,28.0473,Super Kings,South Africa
+Melbourne,56441,-37.8136,144.9631,Stars,Australia
+Colombo (RPS),59306,6.9344,79.8538,Neutral,Sri Lanka
+Christchurch,58810,-43.5321,172.6362,Canterbury,New Zealand
+Nottingham,57219,52.9548,-1.1581,Northants,England
+Lord's,57129,51.5293,-0.1722,Middlesex,England
+Nagpur,375326,21.1458,79.0882,Neutral,India
+Bridgetown,59429,13.1132,-59.5988,Neutral,West Indies
+Harare,59545,-17.8252,31.0335,Neutral,Zimbabwe
+Port of Spain,59475,10.6549,-61.5019,Neutral,West Indies
+Manchester,57160,53.4808,-2.2426,Lancashire,England
+Sydney,56544,-33.8688,151.2093,Thunder,Australia
+Sydney,56544,-33.8688,151.2093,Sixers,Australia
+Sydney,56544,-33.8688,151.2093,NSW,Australia
+Chennai,58008,13.0827,80.2707,CSK,India
+Wankhede,58324,18.9388,72.8258,MI,India
+Bengaluru,57897,12.9716,77.5946,RCB,India
+Ahmedabad,57851,23.0225,72.5714,GT,India
+Rajkot,377285,22.3039,70.8022,Guj Lions,India
+Mirpur,236761,23.804,90.3667,Neutral,Bangladesh
+Dharamsala,58056,32.219,76.3234,Kings XI,India
+Dharamsala,58056,32.219,76.3234,Punjab Kings,India
+Cuttack,58027,20.4625,85.8828,Chargers,India
+Adelaide,56293,-34.9285,138.6007,Strikers,Australia
+Adelaide,56293,-34.9285,138.6007,South Aust,Australia
+Pune,545380,18.5204,73.8567,Supergiants,India
+Ranchi,485865,23.3441,85.3096,CSK,India
+Visakhapatnam,58547,17.6868,83.2185,Chargers,India
+Visakhapatnam,58547,17.6868,83.2185,Daredevils,India
+Eden Gardens,57980,22.5645,88.3431,KKR,India
+Mohali,57991,30.7056,76.7186,Kings XI,India
+Mohali,57991,30.7056,76.7186,Punjab Kings,India
+Lauderhill,378262,26.1404,-80.2134,Neutral,U.S.A.
+Guwahati,680295,26.1445,91.7362,RR,India
+Delhi,58040,28.6139,77.209,Daredevils,India
+Delhi,58040,28.6139,77.209,DC,India
+Thiruvananthapuram,1120086,8.5241,76.9366,Neutral,India
+Indore,58150,22.7196,75.8577,Kings XI,India
+Centurion,59079,-25.872,28.1676,Capitals,South Africa
+Centurion,59079,-25.872,28.1676,Titans,South Africa
+Cape Town,59068,-33.9249,18.4241,MI Cape Town,South Africa
+Cape Town,59068,-33.9249,18.4241,Blitz,South Africa
+Dublin (Malahide),58607,53.4373,-6.1543,Neutral,South Africa
+Cardiff,56874,51.4816,-3.1791,Glamorgan,England
+Bristol,56831,51.4545,-2.5879,Gloucs,England
+Lucknow,1070094,26.8467,80.9462,LSG,India
+Brisbane,56336,-27.4698,153.0251,Heat,Australia
+Brisbane,56336,-27.4698,153.0251,Queensland,Australia
+Wellington,58895,-41.2865,174.7762,Wellington,New Zealand
+Auckland,58792,-36.8485,174.7633,Auckland,New Zealand
+Hamilton,58831,-37.787,175.2793,Northern Dis,New Zealand
+Hyderabad,58142,17.385,78.4867,SRH,India
+Hyderabad,58142,17.385,78.4867,Chargers,India
+Mount Maunganui,444258,-37.6393,176.1816,Northern Dis,New Zealand
+Dubai (DICS),392627,25.2333,55.3431,Neutral,U.A.E.
+Abu Dhabi,59396,24.4539,54.3773,Neutral,U.A.E.
+Jaipur,58162,26.9124,75.7873,RR,India
+Southampton,57312,50.9097,-1.4044,Hampshire,England
+Birmingham,56788,52.4862,-1.8904,Bears,England
+Tarouba,247418,10.279,-61.4399,Neutral,West Indies
+Basseterre,59421,17.3026,-62.7177,Neutral,West Indies
+Perth,1126475,-31.9505,115.8605,Scorchers,Australia
+New York,1417066,40.7128,-74.006,Neutral,U.S.A.
+North Sound,208543,17.0644,-61.794,Neutral,West Indies
+Gros Islet,59518,14.0583,-60.9544,Neutral,West Indies
+Providence,208544,6.8076,-58.1627,Neutral,West Indies
+Brabourne,58317,18.9389,72.8265,MI,India
+Gqeberha,59159,-33.9608,25.6022,Eastern Cape,South Africa
+Gqeberha,59159,-33.9608,25.6022,Warriors,South Africa
+East London,59098,-33.0292,27.8546,Neutral,South Africa
+Kimberley,59135,-28.7383,24.7636,Neutral,South Africa
+Poona,545380,18.5204,73.8567,Neutral,India
+DY Patil,343050,19.0434,73.0243,Warriors,India
+Canterbury,56869,51.2802,1.0789,Kent,England
+Leicester,57100,52.6369,-1.1398,Leics,England
+Mumbai,379598,19.076,72.8777,Neutral,India
+Sharjah,59392,25.3463,55.4209,Neutral,U.A.E.
+Kanpur,58204,26.4499,80.3319,Guj Lions,India
+Mullanpur,1290799,30.78,76.7186,Kings XI,India
+Mullanpur,1290799,30.78,76.7186,Punjab Kings,India
+Napier,58857,-39.4928,176.912,Central D,New Zealand
+Raipur,601879,21.2514,81.6296,Daredevils,India
+Pallekele,434211,7.2906,80.6974,Neutral,Sri Lanka
+Gwalior,1447330,26.2183,78.1828,Neutral,India
+Vadodara,58516,22.3072,73.1812,Neutral,India
+Kolkata,1169429,22.5726,88.3639,Neutral,India
+Surat,58461,21.1702,72.8311,Neutral,India
+Derby,56953,52.9225,-1.4746,Derbyshire,England
+Northampton,57207,52.2405,-0.8694,Northants,England
+Alur,573809,13.0245,77.4141,Neutral,India
+Hangzhou,1377972,30.2741,120.1551,Neutral,China
+Chandigarh,57993,30.7333,76.7794,Neutral,India
+Jadavpur Uni,57986,22.5726,88.3639,Neutral,India
+Sultanpur,1285698,26.2554,82.077,Neutral,India
+Al Amerat,1095893,23.532,58.4119,Neutral,Oman
+Saurashtra,377285,22.3039,70.8022,Neutral,India
+Karachi,58956,24.8607,67.0011,Neutral,Pakistan
+Chester-le-Street,56901,54.843,-1.5753,Durham,England
+St George's,59159,12.0561,-61.7488,Neutral,West Indies
+The Oval,57127,51.482,-0.1123,Surrey,England
+Taunton,57351,51.0178,-3.0927,Somerset,England
+Chelmsford,56887,51.7361,0.4798,Essex,England
+Hove,56825,50.8279,-0.1688,Sussex,England
+Hobart,56407,-42.8821,147.3272,Hurricanes,Australia
+Hobart,56407,-42.8821,147.3272,Tasmania,Australia
+Launceston,805977,-41.4388,147.1352,Hurricanes,Australia
+Launceston,805977,-41.4388,147.1352,Tasmania,Australia
+Canberra,56370,-35.2809,149.13,Thunder,Australia
+Melbourne (Docklands),56450,-37.8136,144.9631,Renegades,Australia
+Cheltenham,56891,51.8994,-2.0784,Neutral,England
+Leeds,57092,53.8008,-1.5491,Yorkshire,England
+Chattogram,56658,22.3569,91.7832,Neutral,Bangladesh
+Sylhet,56689,24.8949,91.8687,Neutral,Bangladesh
+Lahore,58967,31.5497,74.3436,Neutral,Pakistan
+Paarl,59147,-33.7243,18.9622,Paarl Royals,South Africa
+Paarl,59147,-33.7243,18.9622,Boland,South Africa
+Alexandra,58787,-45.2433,169.3835,Otago,New Zealand
+Kingston,59458,17.9712,-76.792,Neutral,West Indies
+Potchefstroom,59172,-26.7034,27.097,North West,South Africa
+Benoni (A),308345,-26.1885,28.3208,Neutral,South Africa
+Benoni,59039,-26.1885,28.3208,Neutral,South Africa
+Potchefstroom (Uni),59168,-26.7034,27.097,Neutral,South Africa
+Dallas,1381196,32.7767,-96.797,Neutral,U.S.A.
+Morrisville,1156527,35.8235,-78.8256,Neutral,U.S.A.
+Alur (3),722463,13.0245,77.4141,Neutral,India
+Alur (2),950015,13.0245,77.4141,Neutral,India
+Dehradun,1145946,30.3165,78.0322,Neutral,India
+Vizianagaram,709715,18.1164,83.4115,Neutral,India
+Mulapadu,1152683,16.525,80.7522,Neutral,India
+Nelson,424917,-41.2706,173.284,Central D,New Zealand
+Nelson,424917,-41.2706,173.284,Wellington,New Zealand
+Dunedin,58827,-45.8741,170.5036,Otago,New Zealand
+Belfast,58588,54.5973,-5.9301,Neutral,Ireland
+The Hague,461400,52.0767,4.2908,Neutral,Netherlands
+Dambulla,59368,7.8641,80.6511,Neutral,Sri Lanka
+Worcester,57424,52.192,-2.22,Worcs,England
+Whangarei,441704,-35.7251,174.3237,Neutral,New Zealand
+Queenstown,58919,-45.0312,168.6626,Neutral,New Zealand
+New Plymouth,58865,-39.0556,174.0742,Neutral,New Zealand
+Blackpool,56798,53.8175,-3.035,Neutral,England
+Roseau,59480,15.3017,-61.3881,Neutral,West Indies
+Mt Maunganui,444258,-37.6393,176.1816,Northern Dis,New Zealand
+Kabul,775615,34.5553,69.2075,Neutral,Afghanistan
+Carrara,56383,-28.0027,153.3677,Neutral,Australia
+Rawalpindi,59006,33.6844,73.0479,Neutral,Pakistan
+Richmond,57545,37.5407,-77.436,Neutral,England
+Windhoek,58678,-22.5597,17.0832,Neutral,Namibia
+Thumba,1053905,8.5222,76.865,Neutral,India
+Rohtak,269356,28.8955,76.6066,Neutral,India
+Nadaun,58585,31.7619,76.3531,Neutral,India
+Coolidge,59497,17.136,-61.792,Neutral,Bermuda
+Kingstown,59463,13.16,-61.224,Neutral,West Indies
+Multan,58986,30.1575,71.5249,Neutral,Pakistan
+Shimoga,546331,13.9299,75.5681,Neutral,India
+Bhadravati,57930,13.8486,75.705,Neutral,India
+Kochi,58230,9.9312,76.2673,Kochi,India
+Hambantota,940847,6.1248,81.1185,Neutral,Sri Lanka
+Bloemfontein,59042,-29.0852,26.1596,Knights,South Africa
+North Sydney,56539,-33.8391,151.2093,NSW,Australia
+Greater Noida,942501,28.4744,77.503,Neutral,India
+Kidderminster,57078,52.3916,-2.2461,Neutral,England
+Milton Keynes,57182,52.0406,-0.7594,Neutral,England
+Mutare,59558,-18.9733,32.6692,Neutral,Zimbabwe
+Khulna,56691,22.815,89.5689,Neutral,Bangladesh
+Florence Hall,247416,18.4521,-77.5988,Neutral,West Indies
+Fatullah,56667,23.6171,90.5004,Neutral,Bangladesh
+W.A.C.A,56490,-31.9513,115.8773,West Aust,Australia
+W.A.C.A,56490,-31.9513,115.8773,Scorchers,Australia
+Cairns,56362,-16.9203,145.771,Neutral,Australia
+Geelong,56402,-38.1499,144.3617,Renegades,Australia
+Bhubaneswar,806213,20.2961,85.8245,Neutral,India
+Pietermaritzburg,59151,-29.6006,30.3796,Neutral,South Africa
+Palmerston North,58871,-40.3523,175.6082,Central D,New Zealand
+Tunbridge Wells,57367,51.1324,0.2633,Neutral,England
+Tolerance Oval,584781,25.2769,55.2962,Neutral,U.A.E.
+Moratuwa,59350,6.773,79.8842,Neutral,Sri Lanka
+Alice Springs,1207080,-23.698,133.8807,Neutral,Australia
+Moe,1170382,-38.1781,146.2633,Neutral,Australia
+Albury,56319,-36.0737,146.9135,Neutral,Australia
+Mangalagiri,1287205,16.426,80.5603,Neutral,India
+Colombo (Bloomfield),59289,6.9271,79.8612,Neutral,Sri Lanka
+Colombo (Colts),59296,6.9271,79.8612,Neutral,Sri Lanka
+Colombo (NCC),59300,6.9271,79.8612,Neutral,Sri Lanka
+Katunayake,59337,7.1641,79.9594,Neutral,Sri Lanka
+Colombo (Burgher),59292,6.9271,79.8612,Neutral,Sri Lanka
+Colombo (PSS),59303,6.9271,79.8612,Neutral,Sri Lanka
+Colombo (Moors),59298,6.9271,79.8612,Neutral,Sri Lanka
+Colombo (Thurstan),59320,6.9271,79.8612,Neutral,Sri Lanka
+Panagoda,313705,6.9271,79.8612,Neutral,Sri Lanka
+Colombo (SSC),59308,6.9271,79.8612,Neutral,Sri Lanka
+Arundel,56747,50.855,-0.5537,Neutral,England
+Colombo (CCC),59294,6.9271,79.8612,Neutral,Sri Lanka
+Uxbridge,57378,51.5462,-0.479,Neutral,England
+Coffs Harbour,56386,-30.2963,153.1135,Sixers,Australia
+Liverpool,57112,53.4084,-2.9916,Lancashire,England
+Singapore,419210,1.3521,103.8198,Neutral,Singapore
+ICCA Dubai,481147,25.2769,55.2962,Neutral,U.A.E.
+ICCA 2 Dubai,499767,25.2769,55.2962,Neutral,U.A.E.
+Bangkok,491951,13.7563,100.5018,Neutral,Thailand
+Edinburgh,59269,55.9533,-3.1883,Neutral,Scotland
+SLAOCIC Stadium,1173702,6.9271,79.8612,Neutral,Sri Lanka
+Pretoria,59177,-25.7479,28.2293,Neutral,South Africa
+Chesterfield,56905,53.235,-1.4216,Neutral,South Africa
+Oudtshoorn,59233,-33.5833,22.2,Neutral,South Africa
+Beckenham,56777,51.4,0.0167,Kent,England
+Bath,56772,51.3758,-2.3599,Neutral,England
+Southgate,57319,51.6287,-0.1275,Middlesex,England
+Radlett,271204,51.6854,-0.3222,Neutral,England
+Bready,58650,54.8333,-7.3818,Neutral,Ireland
+Scarborough,57290,54.2831,-0.3995,Neutral,West Indies
+Maggona,515435,6.51278,79.9933,Neutral,Sri Lanka
