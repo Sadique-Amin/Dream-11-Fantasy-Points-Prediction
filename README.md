@@ -1,12 +1,10 @@
 🏏 IPL Fantasy Score Predictor – MLOps Pipeline
-  Welcome to the IPL Fantasy Score Predictor, an MLOps-based project designed to forecast IPL player performance using a robust and automated machine learning pipeline. The project leverages both structured statistical data and unstructured pitch commentary to deliver high-confidence fantasy team predictions.
+  Welcome to the IPL Fantasy Score Predictor, an MLOps-based project designed to forecast IPL player performance using a robust and automated machine learning pipeline. The project leverages both structured statistical data and unstructured pitch commentary to deliver     high-confidence fantasy team predictions.
 
 📌 Table of Contents
   🔍 Project Overview
   
   📦 Features
-  
-  🧱 Architecture
   
   📊 Data Collection & Preprocessing
   
@@ -32,35 +30,6 @@
   
   🔄 Reproducible outputs, no need to retrain on every match
 
-🧱 Architecture
-          ┌────────────┐
-          │ Match Info │
-          └─────┬──────┘
-                ↓
-       ┌────────────────┐
-       │  Data Pipeline │◄─────────────┐
-       └─────┬──────────┘              │
-             ↓                         │
-      ┌────────────┐        ┌──────────────────┐
-      │ Toss & 11s │        │ Pitch Report NLP │
-      └─────┬──────┘        └──────────────────┘
-            ↓                         ↓
-       ┌────────────┐        ┌────────────────────┐
-       │  Feature    │        │ DistilBERT Classifier│
-       │ Engineering │        └────────────────────┘
-       └─────┬──────┘
-             ↓
-       ┌───────────────┐
-       │ Quantile Model│
-       └─────┬─────────┘
-             ↓
-  ┌──────────────────────┐
-  │ Monte Carlo Simulator│
-  └────────┬─────────────┘
-           ↓
-   ┌────────────────────────┐
-   │ Fantasy Team Prediction│
-   └────────────────────────┘
 📊 Data Collection & Preprocessing
   Sources:
   Player stats: ESPNcricinfo's Statsguru, Cricbuzz
