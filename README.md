@@ -1,102 +1,93 @@
-🏏 IPL Fantasy Score Predictor – MLOps Pipeline
-Welcome to the IPL Fantasy Score Predictor, an MLOps-based project designed to forecast IPL player performance using a robust and automated machine learning pipeline. The project leverages both structured statistical data and unstructured pitch commentary to deliver high-confidence fantasy team predictions.
+# 🏏 IPL Fantasy Score Predictor – MLOps Pipeline
 
-📌 Table of Contents
-🔍 Project Overview
+Welcome to the **IPL Fantasy Score Predictor**, an MLOps-based project designed to forecast IPL player performance using a robust and automated machine learning pipeline. The project leverages both structured statistical data and unstructured pitch commentary to deliver high-confidence fantasy team predictions.
 
-📦 Features
+---
 
-📊 Data Collection & Preprocessing
+## 📌 Table of Contents
 
-📈 Models Used
+- [🔍 Project Overview](#-project-overview)
+- [📦 Features](#-features)
+- [📊 Data Collection & Preprocessing](#-data-collection--preprocessing)
+- [📈 Models Used](#-models-used)
+- [⚙️ Usage Guide](#-usage-guide)
+- [🧠 Team Insights](#-team-insights)
 
-⚙️ Usage Guide
+---
 
-🧠 Team Insights
+## 🔍 Project Overview
 
-🔍 Project Overview
-This project predicts fantasy points for IPL matches using historical player statistics, match dynamics, and pitch conditions. It combines the strengths of ensemble learning, NLP, and Monte Carlo simulations to create a reliable match-day forecasting engine. The project is designed with MLOps best practices for automation, reproducibility, and scalability.
+This project predicts **fantasy points** for IPL matches using historical player statistics, match dynamics, and pitch conditions. It combines the strengths of **ensemble learning**, **NLP**, and **Monte Carlo simulations** to create a reliable match-day forecasting engine. The project is designed with **MLOps best practices** for automation, reproducibility, and scalability.
 
-📦 Features
-🏏 Predicts individual player performance & total fantasy score
+---
 
-⚙️ Fully automated ML pipeline with one command execution
+## 📦 Features
 
-🤖 Quantile Regression + Monte Carlo Simulation for uncertainty modeling
+- 🏏 Predicts **individual player performance** & **total fantasy score**
+- ⚙️ Fully **automated ML pipeline** with one-command execution
+- 🤖 **Quantile Regression + Monte Carlo Simulation** for uncertainty modeling
+- 🗣️ **NLP classification** of pitch commentary using **DistilBERT**
+- 📦 Delivered in a **Docker container** for easy deployment
+- 🔄 **Reproducible outputs** with no need to retrain for every match
 
-🗣️ NLP classification of pitch commentary using DistilBERT
+---
 
-📦 Delivered in a Docker container for easy deployment
+## 📊 Data Collection & Preprocessing
 
-🔄 Reproducible outputs, no need to retrain on every match
+### **Sources:**
+- Player stats: *ESPNcricinfo's Statsguru*, *Cricbuzz*
+- Ground info: *Manually compiled*
+- Match history: *Unique match records across careers*
+- Pitch reports: *Scraped from Sportskeeda and other sources*
 
-📊 Data Collection & Preprocessing
-Sources:
+### **Preprocessing Highlights:**
+- ✅ Normalized team name variations (e.g., *Delhi Daredevils → Delhi Capitals*)
+- ✅ Deduplicated match records to avoid overlapping stats
+- ✅ Separated batting and bowling stats for clarity
+- ✅ Added rolling statistics for form (last 5 matches)
 
-Player stats: ESPNcricinfo's Statsguru, Cricbuzz
+---
 
-Ground info: Manually compiled
+## 📈 Models Used
 
-Match history: Unique match records across careers
+### 🎯 Final Model:
+- **Quantile Regression + Monte Carlo Simulation**
+- Models uncertainty with predicted **means and standard deviations**
+- Assumes **normal distribution** for simplicity and interpretability
 
-Pitch reports: Scraped from Sportskeeda and other sources
+### 🧠 NLP Classifier:
+- **DistilBERT** fine-tuned to classify pitch reports into:
+  - Batting-friendly
+  - Bowling-friendly
 
-Preprocessing Highlights:
+### 🧪 Other Models Explored:
+- **XGBoost Classifier & Regressor** with engineered features
+- **KDE-based probabilistic models** (discarded due to poor fit)
 
-✅ Normalized team name variations (e.g., Delhi Daredevils → Delhi Capitals)
+---
 
-✅ Deduplicated match records to avoid overlapping stats
+## ⚙️ Usage Guide
 
-✅ Separated batting and bowling stats for clarity
+**Input:**
+- Match number
+- Playing 22 (including impact subs)
 
-✅ Added rolling statistics for form (last 5 matches)
+**Output:**
+- Predicted fantasy points
+- Recommended team
 
-📈 Models Used
-🎯 Final Model:
-Quantile Regression + Monte Carlo Simulation
+### **Steps:**
+1. Fetch the upcoming match schedule
+2. Input match number via **Docker CLI**
+3. Automatically fetch **toss and team info**
+4. Run **data preprocessing and feature generation**
+5. Model predicts performance → **Monte Carlo simulates outcome**
+6. Suggests **optimal fantasy team** (>850 points expected)
 
-Models uncertainty with predicted means and standard deviations
+---
 
-Assumes normal distribution for simplicity and interpretability
+## 🧠 Team Insights
 
-🧠 NLP Classifier:
-DistilBERT fine-tuned to classify pitch reports into:
+This project reflects a blend of **domain knowledge**, **model experimentation**, and **engineering practicality**. The use of **NLP to quantify pitch commentary** and the adoption of **quantile-based uncertainty models** make this a comprehensive **MLOps case study** in sports analytics.
 
-Batting-friendly
-
-Bowling-friendly
-
-🧪 Other Models Explored:
-XGBoost Classifier & Regressor with engineered features
-
-KDE-based probabilistic models (discarded due to poor fit)
-
-⚙️ Usage Guide
-Input:
-
-Match number
-
-Playing 22 (including impact subs)
-
-Output:
-
-Predicted fantasy points
-
-Recommended team
-
-Steps:
-
-Fetch the upcoming match schedule
-
-Input match number via Docker CLI
-
-Automatically fetch toss and team info
-
-Run data preprocessing and feature generation
-
-Model predicts performance → Monte Carlo simulates outcome
-
-Suggests optimal fantasy team (>850 points expected)
-
-🧠 Team Insights
-This project reflects a blend of domain knowledge, model experimentation, and engineering practicality. The use of NLP to quantify pitch commentary and the adoption of quantile-based uncertainty models make this a comprehensive MLOps case study in sports analytics.
+---
