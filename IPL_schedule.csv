@@ -1,0 +1,75 @@
+Match,Team1,Team2,Match Type,Match Link,Match ID,Date,Venue
+Match 1,KKR,RCB,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/kolkata-knight-riders-vs-royal-challengers-bengaluru-1st-match-1473438/full-scorecard,1473438,2025-03-22,Eden Gardens
+Match 2,SRH,RR,Day/Night,https://www.espncricinfo.com/series/ipl-2025-1449924/sunrisers-hyderabad-vs-rajasthan-royals-2nd-match-1473439/full-scorecard,1473439,2025-03-23,Hyderabad
+Match 3,CSK,MI,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/chennai-super-kings-vs-mumbai-indians-3rd-match-1473440/full-scorecard,1473440,2025-03-23,Chennai
+Match 4,DC,LSG,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/delhi-capitals-vs-lucknow-super-giants-4th-match-1473441/full-scorecard,1473441,2025-03-24,Visakhapatnam
+Match 5,GT,Punjab Kings,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/gujarat-titans-vs-punjab-kings-5th-match-1473442/full-scorecard,1473442,2025-03-25,Ahmedabad
+Match 6,RR,KKR,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/rajasthan-royals-vs-kolkata-knight-riders-6th-match-1473443/full-scorecard,1473443,2025-03-26,Guwahati
+Match 7,SRH,LSG,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/sunrisers-hyderabad-vs-lucknow-super-giants-7th-match-1473444/full-scorecard,1473444,2025-03-27,Hyderabad
+Match 8,CSK,RCB,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/chennai-super-kings-vs-royal-challengers-bengaluru-8th-match-1473445/full-scorecard,1473445,2025-03-28,Chennai
+Match 9,GT,MI,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/gujarat-titans-vs-mumbai-indians-9th-match-1473446/full-scorecard,1473446,2025-03-29,Ahmedabad
+Match 10,DC,SRH,Day/Night,https://www.espncricinfo.com/series/ipl-2025-1449924/delhi-capitals-vs-sunrisers-hyderabad-10th-match-1473447/full-scorecard,1473447,2025-03-30,Visakhapatnam
+Match 11,RR,CSK,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/rajasthan-royals-vs-chennai-super-kings-11th-match-1473448/full-scorecard,1473448,2025-03-30,Guwahati
+Match 12,MI,KKR,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/mumbai-indians-vs-kolkata-knight-riders-12th-match-1473449/full-scorecard,1473449,2025-03-31,Wankhede
+Match 13,LSG,Punjab Kings,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/lucknow-super-giants-vs-punjab-kings-13th-match-1473450/full-scorecard,1473450,2025-04-01,Lucknow
+Match 14,RCB,GT,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/royal-challengers-bengaluru-vs-gujarat-titans-14th-match-1473451/full-scorecard,1473451,2025-04-02,Bengaluru
+Match 15,KKR,SRH,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/kolkata-knight-riders-vs-sunrisers-hyderabad-15th-match-1473452/full-scorecard,1473452,2025-04-03,Eden Gardens
+Match 16,LSG,MI,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/lucknow-super-giants-vs-mumbai-indians-16th-match-1473453/full-scorecard,1473453,2025-04-04,Lucknow
+Match 17,CSK,DC,Day/Night,https://www.espncricinfo.com/series/ipl-2025-1449924/chennai-super-kings-vs-delhi-capitals-17th-match-1473454/full-scorecard,1473454,2025-04-05,Chennai
+Match 18,Punjab Kings,RR,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/punjab-kings-vs-rajasthan-royals-18th-match-1473455/full-scorecard,1473455,2025-04-05,Mullanpur
+Match 19,SRH,GT,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/sunrisers-hyderabad-vs-gujarat-titans-19th-match-1473457/full-scorecard,1473457,2025-04-06,Hyderabad
+Match 20,MI,RCB,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/mumbai-indians-vs-royal-challengers-bengaluru-20th-match-1473458/full-scorecard,1473458,2025-04-07,Wankhede
+Match 21,KKR,LSG,Day/Night,https://www.espncricinfo.com/series/ipl-2025-1449924/kolkata-knight-riders-vs-lucknow-super-giants-21st-match-1473456/full-scorecard,1473456,2025-04-08,Eden Gardens
+Match 22,Punjab Kings,CSK,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/punjab-kings-vs-chennai-super-kings-22nd-match-1473459/full-scorecard,1473459,2025-04-08,Mullanpur
+Match 23,GT,RR,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/gujarat-titans-vs-rajasthan-royals-23rd-match-1473460/full-scorecard,1473460,2025-04-09,Ahmedabad
+Match 24,RCB,DC,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/royal-challengers-bengaluru-vs-delhi-capitals-24th-match-1473461/full-scorecard,1473461,2025-04-10,Bengaluru
+Match 25,CSK,KKR,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/chennai-super-kings-vs-kolkata-knight-riders-25th-match-1473462/full-scorecard,1473462,2025-04-11,Chennai
+Match 26,LSG,GT,Day/Night,https://www.espncricinfo.com/series/ipl-2025-1449924/lucknow-super-giants-vs-gujarat-titans-26th-match-1473463/full-scorecard,1473463,2025-04-12,Lucknow
+Match 27,SRH,Punjab Kings,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/sunrisers-hyderabad-vs-punjab-kings-27th-match-1473464/full-scorecard,1473464,2025-04-12,Hyderabad
+Match 28,RR,RCB,Day/Night,https://www.espncricinfo.com/series/ipl-2025-1449924/rajasthan-royals-vs-royal-challengers-bengaluru-28th-match-1473465/full-scorecard,1473465,2025-04-13,Jaipur
+Match 29,DC,MI,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/delhi-capitals-vs-mumbai-indians-29th-match-1473466/full-scorecard,1473466,2025-04-13,Delhi
+Match 30,LSG,CSK,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/lucknow-super-giants-vs-chennai-super-kings-30th-match-1473467/full-scorecard,1473467,2025-04-14,Lucknow
+Match 31,Punjab Kings,KKR,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/punjab-kings-vs-kolkata-knight-riders-31st-match-1473468/full-scorecard,1473468,2025-04-15,Mullanpur
+Match 32,DC,RR,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/delhi-capitals-vs-rajasthan-royals-32nd-match-1473469/full-scorecard,1473469,2025-04-16,Delhi
+Match 33,MI,SRH,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/mumbai-indians-vs-sunrisers-hyderabad-33rd-match-1473470/full-scorecard,1473470,2025-04-17,Wankhede
+Match 34,RCB,Punjab Kings,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/royal-challengers-bengaluru-vs-punjab-kings-34th-match-1473471/full-scorecard,1473471,2025-04-18,Bengaluru
+Match 35,GT,DC,Day/Night,https://www.espncricinfo.com/series/ipl-2025-1449924/gujarat-titans-vs-delhi-capitals-35th-match-1473472/full-scorecard,1473472,2025-04-19,Ahmedabad
+Match 36,RR,LSG,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/rajasthan-royals-vs-lucknow-super-giants-36th-match-1473473/full-scorecard,1473473,2025-04-19,Jaipur
+Match 37,Punjab Kings,RCB,Day/Night,https://www.espncricinfo.com/series/ipl-2025-1449924/punjab-kings-vs-royal-challengers-bengaluru-37th-match-1473474/full-scorecard,1473474,2025-04-20,Mullanpur
+Match 38,MI,CSK,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/mumbai-indians-vs-chennai-super-kings-38th-match-1473475/full-scorecard,1473475,2025-04-20,Wankhede
+Match 39,KKR,GT,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/kolkata-knight-riders-vs-gujarat-titans-39th-match-1473476/full-scorecard,1473476,2025-04-21,Eden Gardens
+Match 40,LSG,DC,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/lucknow-super-giants-vs-delhi-capitals-40th-match-1473477/full-scorecard,1473477,2025-04-22,Lucknow
+Match 41,SRH,MI,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/sunrisers-hyderabad-vs-mumbai-indians-41st-match-1473478/full-scorecard,1473478,2025-04-23,Hyderabad
+Match 42,RCB,RR,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/royal-challengers-bengaluru-vs-rajasthan-royals-42nd-match-1473479/full-scorecard,1473479,2025-04-24,Bengaluru
+Match 43,CSK,SRH,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/chennai-super-kings-vs-sunrisers-hyderabad-43rd-match-1473480/full-scorecard,1473480,2025-04-25,Chennai
+Match 44,KKR,Punjab Kings,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/kolkata-knight-riders-vs-punjab-kings-44th-match-1473481/full-scorecard,1473481,2025-04-26,Eden Gardens
+Match 45,MI,LSG,Day/Night,https://www.espncricinfo.com/series/ipl-2025-1449924/mumbai-indians-vs-lucknow-super-giants-45th-match-1473482/full-scorecard,1473482,2025-04-27,Wankhede
+Match 46,DC,RCB,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/delhi-capitals-vs-royal-challengers-bengaluru-46th-match-1473483/full-scorecard,1473483,2025-04-27,Delhi
+Match 47,RR,GT,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/rajasthan-royals-vs-gujarat-titans-47th-match-1473484/full-scorecard,1473484,2025-04-28,Jaipur
+Match 48,DC,KKR,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/delhi-capitals-vs-kolkata-knight-riders-48th-match-1473485/full-scorecard,1473485,2025-04-29,Delhi
+Match 49,CSK,Punjab Kings,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/chennai-super-kings-vs-punjab-kings-49th-match-1473486/full-scorecard,1473486,2025-04-30,Chennai
+Match 50,RR,MI,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/rajasthan-royals-vs-mumbai-indians-50th-match-1473487/full-scorecard,1473487,2025-05-01,Jaipur
+Match 51,GT,SRH,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/gujarat-titans-vs-sunrisers-hyderabad-51st-match-1473488/full-scorecard,1473488,2025-05-02,Ahmedabad
+Match 52,RCB,CSK,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/royal-challengers-bengaluru-vs-chennai-super-kings-52nd-match-1473489/full-scorecard,1473489,2025-05-03,Bengaluru
+Match 53,KKR,RR,Day/Night,https://www.espncricinfo.com/series/ipl-2025-1449924/kolkata-knight-riders-vs-rajasthan-royals-53rd-match-1473490/full-scorecard,1473490,2025-05-04,Eden Gardens
+Match 54,Punjab Kings,LSG,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/punjab-kings-vs-lucknow-super-giants-54th-match-1473491/full-scorecard,1473491,2025-05-04,Dharamsala
+Match 55,SRH,DC,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/sunrisers-hyderabad-vs-delhi-capitals-55th-match-1473492/full-scorecard,1473492,2025-05-05,Hyderabad
+Match 56,MI,GT,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/mumbai-indians-vs-gujarat-titans-56th-match-1473493/full-scorecard,1473493,2025-05-06,Wankhede
+Match 57,KKR,CSK,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/kolkata-knight-riders-vs-chennai-super-kings-57th-match-1473494/full-scorecard,1473494,2025-05-07,Eden Gardens
+Match 58,RCB,KKR,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/royal-challengers-bengaluru-vs-kolkata-knight-riders-58th-match-1473496/match-preview,1473496,2025-05-17,Bengaluru
+Match 59,RR,Punjab Kings,Day/Night,https://www.espncricinfo.com/series/ipl-2025-1449924/rajasthan-royals-vs-punjab-kings-59th-match-1473497/live-cricket-score,1473497,2025-05-18,Jaipur
+Match 60,DC,GT,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/delhi-capitals-vs-gujarat-titans-60th-match-1473498/live-cricket-score,1473498,2025-05-18,Delhi
+Match 61,LSG,SRH,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/lucknow-super-giants-vs-sunrisers-hyderabad-61st-match-1473499/live-cricket-score,1473499,2025-05-19,Lucknow
+Match 62,CSK,RR,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/chennai-super-kings-vs-rajasthan-royals-62nd-match-1473500/live-cricket-score,1473500,2025-05-20,Delhi
+Match 63,MI,DC,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/mumbai-indians-vs-delhi-capitals-63rd-match-1473501/live-cricket-score,1473501,2025-05-21,Wankhede
+Match 64,GT,LSG,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/gujarat-titans-vs-lucknow-super-giants-64th-match-1473502/live-cricket-score,1473502,2025-05-22,Ahmedabad
+Match 65,RCB,SRH,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/royal-challengers-bengaluru-vs-sunrisers-hyderabad-65th-match-1473503/live-cricket-score,1473503,2025-05-23,Bengaluru
+Match 66,DC,Punjab Kings,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/delhi-capitals-vs-punjab-kings-66th-match-1485779/live-cricket-score,1485779,2025-05-24,Jaipur
+Match 67,GT,CSK,Day/Night,https://www.espncricinfo.com/series/ipl-2025-1449924/gujarat-titans-vs-chennai-super-kings-67th-match-1473504/live-cricket-score,1473504,2025-05-25,Ahmedabad
+Match 68,KKR,SRH,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/kolkata-knight-riders-vs-sunrisers-hyderabad-68th-match-1473505/live-cricket-score,1473505,2025-05-25,Delhi
+Match 69,MI,Punjab Kings,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/mumbai-indians-vs-punjab-kings-69th-match-1473506/live-cricket-score,1473506,2025-05-26,Jaipur
+Match 70,LSG,RCB,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/lucknow-super-giants-vs-royal-challengers-bengaluru-70th-match-1473507/live-cricket-score,1473507,2025-05-27,Lucknow
+Qualifier 1,tba,tba-qualifier,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/tba-vs-tba-qualifier-1-1473508/live-cricket-score,1473508,2025-05-29,
+Eliminator,tba,tba,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/tba-vs-tba-eliminator-1473509/live-cricket-score,1473509,2025-05-30,
+Qualifier 2,tba,tba-qualifier,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/tba-vs-tba-qualifier-2-1473510/live-cricket-score,1473510,2025-06-01,
+Final,tba,tba,Night,https://www.espncricinfo.com/series/ipl-2025-1449924/tba-vs-tba-final-1473511/live-cricket-score,1473511,2025-06-03,
